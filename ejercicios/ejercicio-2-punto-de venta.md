@@ -1,5 +1,15 @@
 # Ejercicio 2: Estructura de Carpetas para un Proyecto Web de Punto de Venta Online
 
+## 🚀 Ver tus ejercicios en tiempo real con Live Server
+
+Para visualizar tus archivos HTML en el navegador mientras trabajas:
+
+1. **Instala Live Server:** Ve a Extensiones en VS Code (Ctrl+Shift+X) y busca "Live Server" por Ritwick Dey
+2. **Abre tu archivo HTML** y haz clic derecho → **"Open with Live Server"** o clic en **"Go Live"** en la barra inferior
+3. **Los cambios se reflejarán automáticamente** en tu navegador al guardar
+
+---
+
 ## Objetivo
 Crear la estructura de carpetas básica para un proyecto web de un punto de venta online.
 

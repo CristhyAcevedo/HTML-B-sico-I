@@ -36,7 +36,8 @@ jobs:
       uses: classroom-resources/autograding-command-grader@v1
       with:
         test-name: Ejercicio 1 - Crear carpetas
-        command: npx jest tests/ejercicio/1-crear-carpetas.test.js
+        setup-command: ''
+        command: npm test tests/ejercicio/1-crear-carpetas.test.js
         timeout: 10
         max-score: 20
     
@@ -45,25 +46,28 @@ jobs:
       uses: classroom-resources/autograding-command-grader@v1
       with:
         test-name: Ejercicio 2 - Punto de venta online
-        command: npx jest tests/ejercicio/2-crear-carpetas-punto-venta-online.test.js
+        setup-command: ''
+        command: npm test tests/ejercicio/2-crear-carpetas-punto-venta-online.test.js
         timeout: 10
         max-score: 20
     
-    - name: Ejercicio 3 - Estructura HTML
+    - name: Ejercicio 3 - Crear index
       id: ejercicio-3
       uses: classroom-resources/autograding-command-grader@v1
       with:
-        test-name: Ejercicio 3 - Estructura HTML
-        command: npx jest tests/ejercicio/3-crear-index.test.js
+        test-name: Ejercicio 3 - Crear index
+        setup-command: ''
+        command: npm test tests/ejercicio/3-crear-index.test.js
         timeout: 10
         max-score: 20
     
-    - name: Ejercicio 4 - Estudiantes
+    - name: Ejercicio 4 - Crear estudiantes
       id: ejercicio-4
       uses: classroom-resources/autograding-command-grader@v1
       with:
-        test-name: Ejercicio 4 - Estudiantes
-        command: npx jest tests/ejercicio/4-crear-estudiantes.test.js
+        test-name: Ejercicio 4 - Crear estudiantes
+        setup-command: ''
+        command: npm test tests/ejercicio/4-crear-estudiantes.test.js
         timeout: 10
         max-score: 20
     
@@ -72,7 +76,8 @@ jobs:
       uses: classroom-resources/autograding-command-grader@v1
       with:
         test-name: Ejercicio 5 - Rutas de imágenes
-        command: npx jest tests/ejercicio/5-rutas-imagenes.test.js
+        setup-command: ''
+        command: npm test tests/ejercicio/5-rutas-imagenes.test.js
         timeout: 10
         max-score: 20
     

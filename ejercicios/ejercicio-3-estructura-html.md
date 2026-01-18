@@ -1,4 +1,15 @@
-# Ejercicio 3: Estructura básica de HTML 
+# Ejercicio 3: Estructura básica de HTML
+
+## 🚀 Ver tus ejercicios en tiempo real con Live Server
+
+Para visualizar tus archivos HTML en el navegador mientras trabajas:
+
+1. **Instala Live Server:** Ve a Extensiones en VS Code (Ctrl+Shift+X) y busca "Live Server" por Ritwick Dey
+2. **Abre tu archivo HTML** y haz clic derecho → **"Open with Live Server"** o clic en **"Go Live"** en la barra inferior
+3. **Los cambios se reflejarán automáticamente** en tu navegador al guardar
+
+---
+
 ## Objetivo
 El objetivo de este ejercicio es crear una página HTML sencilla que demuestre el uso de elementos básicos de HTML. Aprenderás cómo estructurar un documento HTML.
 

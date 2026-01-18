@@ -2,6 +2,26 @@
 
 Este repositorio contiene una carpeta llamada "ejercicios" donde encontrarás un archivo por cada ejercicio a realizar. Cada ejercicio incluye pruebas automatizadas para autocorrección y calificación automática.
 
+## 🚀 Ver tus ejercicios en tiempo real con Live Server
+
+Para visualizar tus archivos HTML en el navegador mientras trabajas:
+
+1. **Instala la extensión Live Server en VS Code:**
+   - Abre VS Code
+   - Ve a la pestaña de Extensiones (Ctrl+Shift+X o Cmd+Shift+X)
+   - Busca "Live Server" por Ritwick Dey
+   - Haz clic en "Instalar"
+
+2. **Inicia Live Server:**
+   - Abre el archivo HTML que deseas visualizar (ejemplo: `docs/ejercicio-1/index.html`)
+   - Haz clic derecho en el editor y selecciona **"Open with Live Server"**
+   - O haz clic en el botón **"Go Live"** en la barra de estado inferior
+
+3. **Visualiza los cambios en tiempo real:**
+   - Tu navegador se abrirá automáticamente mostrando tu página
+   - Cada vez que guardes cambios en tu archivo HTML, la página se actualizará automáticamente
+   - Para detener el servidor, haz clic en **"Port: 5500"** en la barra de estado
+
 ## Alumno
 
 #### Escriba su nombre completo aquí.
