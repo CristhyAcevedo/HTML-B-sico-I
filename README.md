@@ -26,8 +26,8 @@ Para visualizar tus archivos HTML en el navegador mientras trabajas:
 
 ## Alumno
 
-#### Escriba su nombre completo aquí.
-##### Escriba su matrícula aquí.
+Cristhy Mariel Acevedo Frias
+2024-2486
 
 ## Estructura del Proyecto
 
@@ -74,3 +74,4 @@ npm test
 5. Ejecuta las pruebas utilizando `npm test` para verificar tu trabajo.
 
 ¡Buena suerte y diviértete aprendiendo HTML!
+
